@@ -1,5 +1,5 @@
 # infosec-cons
-A list of infosec conferences. 
+A list of infosec conferences. Please submit a PR to add a conference that you know about.
 
 
 ## USA
